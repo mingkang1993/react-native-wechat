@@ -24,10 +24,10 @@
   "peerDependencies": {
     "react-native": ">=0.40"
   },
-  "author": “623109618@qq.com”,
+  "author": "623109618@qq.com",
   "contributors": [
     {
-      "name": “cmk”,
+      "name": "cmk",
       "email": "623109618@qq.com"
     }
   ],
